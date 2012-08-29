@@ -1,6 +1,6 @@
 <?php
 
-namespace Socialog\EventManager;
+namespace ZfcBase\EventManager;
 
 use Zend\EventManager\EventManagerInterface;
 use Zend\EventManager\ListenerAggregateInterface;
